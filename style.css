@@ -1,0 +1,68 @@
+
+body {
+
+    background: #84cce9b4; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+} 
+
+
+
+header {
+    padding-top: 50px;
+    text-align: center;
+    margin-bottom: 5px;
+    color: white;
+    display: center;
+}
+
+#contenedor{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#caja1, #caja2, #caja3, #caja4, #caja5 {
+    
+    vertical-align: middle;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+    padding-top: 30px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 10%;
+
+}
+
+#caja1 {
+    background-color: rgba(194, 115, 115, 0.767);
+    color:azure;
+   
+
+}
+#caja2 {
+    background-color: darkslateblue;
+    color:azure;  
+
+}
+#caja3 {
+    background-color: #2ab2ea;
+    color:azure; 
+    
+}
+#caja4{
+    background-color: #d44f82e7;
+    color:azure; 
+
+}
+#caja5{
+    background-color: #82bb18cc;
+    color:azure; 
+
+}
+
+#table{
+    background-color: #e6cc57c7;
+    border-radius: 1.5%;
+   
+    
+}
